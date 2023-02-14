@@ -1,0 +1,33 @@
+blackListed_header_text: Pursuit Blacklist
+setings_modCategory1_desc: '---'
+setings_modCategory1_name: alternativ
+setings_modCategory1_setting1_desc: Aktivera Pursuit
+setings_modCategory1_setting1_name: Jakt
+setings_modCategory1_setting2_desc: "Tid i sekunder innan den f\xF6rf\xF6ljande sk\xE5\
+  despelaren ger upp jakten"
+setings_modCategory1_setting2_name: "Tidsgr\xE4ns f\xF6r jakten"
+setings_modCategory1_setting3_desc: "Kan varelser jaga genom d\xF6rrar?"
+setings_modCategory1_setting3_name: Creature Pursuit
+setings_modCategory1_setting4_desc: "Sk\xE5despelarna \xE5terg\xE5r till sin ursprungliga\
+  \ position efter jakten?"
+setings_modCategory1_setting4_name: "Sk\xE5despelare Return"
+setings_modCategory2_desc: "Dessa akt\xF6rer kommer inte att n\xE5 sina m\xE5l"
+setings_modCategory2_name: Svartlista
+setings_modCategory2_setting1_desc: "Anv\xE4nd r\xF6relseknapparna f\xF6r att navigera\
+  \ i listan\n\n\xC5tg\xE4rd [v\xE4xla stavning] markerar/avmarkerar markeringen f\xF6\
+  r borttagning\n\nOm aktiverat, tryck p\xE5 'SHIFT'-tangenten + f\xF6ljande tangenter"
+setings_modCategory2_setting1_name: "Svartlista sk\xE5despelare"
+setings_modCategory2_setting2_desc: "Snabbknapp f\xF6r att \xF6ppna listan"
+setings_modCategory2_setting2_name: "\xD6ppna List Hotkey"
+setings_modCategory2_setting3_desc: "Snabbtangent f\xF6r att l\xE4gga till m\xE5l\
+  \ till svartlista"
+setings_modCategory2_setting3_name: "Snabbtangent L\xE4gg till i svartlista"
+setings_modCategory2_setting4_desc: "Snabbtangent f\xF6r att ta bort m\xE5l fr\xE5\
+  n svartlista"
+setings_modCategory2_setting4_name: "Snabbtangent Ta bort-fr\xE5n-svartlista"
+setings_modCategory3_name: "Fels\xF6kning"
+setings_modCategory3_setting1_desc: Visa mer information om en jakt
+setings_modCategory3_setting1_name: "Visa f\xF6rf\xF6ljarens detaljer"
+settings_modDesc: "Version 0.16\nG\xF6r det m\xF6jligt f\xF6r sk\xE5despelare att\
+  \ resa genom celler f\xF6r att n\xE5 sitt m\xE5l"
+settings_modName: Jakt

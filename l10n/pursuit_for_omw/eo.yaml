@@ -1,0 +1,30 @@
+blackListed_header_text: Persekuto Nigra Listo
+setings_modCategory1_desc: '---'
+setings_modCategory1_name: Opcioj
+setings_modCategory1_setting1_desc: Ebligu Persekuton
+setings_modCategory1_setting1_name: Postkuro
+setings_modCategory1_setting2_desc: "Tempo en sekundoj anta\u016D ol la persekutanta\
+  \ aktoro \u0109esas persekuti"
+setings_modCategory1_setting2_name: Tempolimo De Postkuro
+setings_modCategory1_setting3_desc: "\u0108u esta\u0135oj povas persekuti tra pordoj?"
+setings_modCategory1_setting3_name: Creature Pursuit
+setings_modCategory1_setting4_desc: Aktoroj revenas al originala pozicio post persekuto?
+setings_modCategory1_setting4_name: Aktoro Reveno
+setings_modCategory2_desc: "\u0108i tiuj aktoroj ne sekvos sian celon"
+setings_modCategory2_name: Nigra listo
+setings_modCategory2_setting1_desc: "Uzu movajn klavojn por navigi la liston\n\nAgo\
+  \ [\u015Dalti sor\u0109on] markas/malmarkas la elekton por forigo\n\nSe \u011Di\
+  \ estas ebligita, premu la klavon 'SHIFT' + la sekvajn klavojn"
+setings_modCategory2_setting1_name: Nigra Listo de Aktoroj
+setings_modCategory2_setting2_desc: Hotkey por malfermi la liston
+setings_modCategory2_setting2_name: Malfermu Liston Hotkey
+setings_modCategory2_setting3_desc: Hotkey por aldoni celon al nigra listo
+setings_modCategory2_setting3_name: Aldono al nigra listo Hotkey
+setings_modCategory2_setting4_desc: Hotkey por forigi celon de nigra listo
+setings_modCategory2_setting4_name: Forigi-de-nigra listo Hotkey
+setings_modCategory3_name: Sencimigi
+setings_modCategory3_setting1_desc: Montri Pliajn Detalojn Pri Postkuro
+setings_modCategory3_setting1_name: Montru Detalojn de Persekutanto
+settings_modDesc: "Versio 0.16\nEbligu aktoroj voja\u011Di tra \u0109eloj por atingi\
+  \ sian celon"
+settings_modName: Postkuro

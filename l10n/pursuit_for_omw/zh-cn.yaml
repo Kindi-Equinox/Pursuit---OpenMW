@@ -1,0 +1,15 @@
+setings_modCategory1_desc: '---'
+setings_modCategory1_name: 选项
+setings_modCategory1_setting1_desc: 打开或关闭模组
+setings_modCategory1_setting1_name: 模组状态
+setings_modCategory1_setting2_desc: 追赶演员放弃追赶前的秒数
+setings_modCategory1_setting2_name: 追击时限
+setings_modCategory2_desc: 这些演员不会追求他们的目标
+setings_modCategory2_name: 黑名单演员名单
+setings_modCategory3_name: 调试
+setings_modCategory3_setting1_desc: 显示有关追求的更多详细信息
+setings_modCategory3_setting1_name: 显示追求者详细信息
+settings_modDesc: '0.15 版
+
+  使演员能够穿越细胞以追求他们的目标'
+settings_modName: 追求

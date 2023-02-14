@@ -1,0 +1,35 @@
+blackListed_header_text: Liste noire de poursuite
+setings_modCategory1_desc: '---'
+setings_modCategory1_name: Choix
+setings_modCategory1_setting1_desc: Activer la poursuite
+setings_modCategory1_setting1_name: Poursuite
+setings_modCategory1_setting2_desc: Temps en secondes avant que l'acteur poursuivant
+  abandonne la poursuite
+setings_modCategory1_setting2_name: "D\xE9lai de poursuite"
+setings_modCategory1_setting3_desc: "Les cr\xE9atures peuvent-elles poursuivre \xE0\
+  \ travers les portes\_?"
+setings_modCategory1_setting3_name: "Poursuite de cr\xE9ature"
+setings_modCategory1_setting4_desc: "Les acteurs reviennent \xE0 leur position d'origine\
+  \ apr\xE8s la poursuite\_?"
+setings_modCategory1_setting4_name: Retour d'acteur
+setings_modCategory2_desc: Ces acteurs ne poursuivront pas leur cible
+setings_modCategory2_name: Liste noire
+setings_modCategory2_setting1_desc: "Utilisez les touches de d\xE9placement pour naviguer\
+  \ dans la liste\n\nAction [toggle spell] marque/d\xE9coche la s\xE9lection pour\
+  \ suppression\n\nSi activ\xE9, appuyez sur la touche 'SHIFT' + les touches suivantes"
+setings_modCategory2_setting1_name: Acteurs de la liste noire
+setings_modCategory2_setting2_desc: Raccourci pour ouvrir la liste
+setings_modCategory2_setting2_name: Ouvrir la liste de raccourcis
+setings_modCategory2_setting3_desc: "Raccourci pour ajouter une cible \xE0 la liste\
+  \ noire"
+setings_modCategory2_setting3_name: "Raccourci clavier d'ajout \xE0 la liste noire"
+setings_modCategory2_setting4_desc: Raccourci clavier pour supprimer la cible de la
+  liste noire
+setings_modCategory2_setting4_name: Touche de raccourci pour supprimer de la liste
+  noire
+setings_modCategory3_name: "D\xE9boguer"
+setings_modCategory3_setting1_desc: "Afficher plus de d\xE9tails sur une poursuite"
+setings_modCategory3_setting1_name: "Afficher les d\xE9tails du pourvoyeur"
+settings_modDesc: "Version 0.16\nPermettre aux acteurs de voyager \xE0 travers les\
+  \ cellules pour poursuivre leur cible"
+settings_modName: Poursuite

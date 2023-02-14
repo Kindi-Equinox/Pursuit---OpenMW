@@ -1,0 +1,35 @@
+blackListed_header_text: Persequere Blacklist
+setings_modCategory1_desc: '---'
+setings_modCategory1_name: Optiones
+setings_modCategory1_setting1_desc: Admitte sectando
+setings_modCategory1_setting1_name: Studium
+setings_modCategory1_setting2_desc: In secundis ante insequens actor dat insequentes
+setings_modCategory1_setting2_name: Terminum sectandi
+setings_modCategory1_setting3_desc: An per fores persequi creaturae?
+setings_modCategory1_setting3_name: Creatura sectando
+setings_modCategory1_setting4_desc: Actores ad pristinum statum revertuntur postquam
+  insequuntur?
+setings_modCategory1_setting4_name: Actor Redi
+setings_modCategory2_desc: Hi actores scopum suum persequi non erunt
+setings_modCategory2_name: Blacklist
+setings_modCategory2_setting1_desc: 'Utere motus claves ad album navigare
+
+
+  Actio [toggle spell] notas/detegere delectu ad remotionem
+
+
+  Si enabled, torcular "TRAHO" + claves sequentes'
+setings_modCategory2_setting1_name: Blacklist Actores
+setings_modCategory2_setting2_desc: Hotkey aperire album
+setings_modCategory2_setting2_name: Open List Hotkey
+setings_modCategory2_setting3_desc: Hotkey addere scopum ad notatione
+setings_modCategory2_setting3_name: Add-ut-Blacklist Hotkey
+setings_modCategory2_setting4_desc: Hotkey ad removendum scopum a notatione
+setings_modCategory2_setting4_name: Aufer-e-Blacklist Hotkey
+setings_modCategory3_name: Debug
+setings_modCategory3_setting1_desc: Monstrare plura de studio
+setings_modCategory3_setting1_name: Ostende persequentem Details
+settings_modDesc: 'Version 0.16
+
+  Actores iter per cellulas ut eorum scopum persequi'
+settings_modName: Studium

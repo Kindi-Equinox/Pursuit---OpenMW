@@ -1,0 +1,15 @@
+GLOBAL: scripts/pursuit_for_omw/global.lua
+PLAYER: scripts/pursuit_for_omw/player.lua
+GLOBAL: scripts/pursuit_for_omw/settings_G.lua
+PLAYER: scripts/pursuit_for_omw/settings.lua
+
+
+CUSTOM, NPC, CREATURE: scripts/pursuit_for_omw/pursuer.lua
+CUSTOM, NPC, CREATURE: scripts/pursuit_for_omw/return.lua
+
+CUSTOM, NPC, CREATURE: scripts/pursuit_for_omw/pursued.lua
+
+
+
+
+DOOR: scripts/pursuit_for_omw/door.lua

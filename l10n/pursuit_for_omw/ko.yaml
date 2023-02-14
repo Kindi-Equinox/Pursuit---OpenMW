@@ -1,0 +1,42 @@
+blackListed_header_text: "\uBE14\uB799\uB9AC\uC2A4\uD2B8 \uCD94\uAD6C"
+setings_modCategory1_desc: '---'
+setings_modCategory1_name: "\uC635\uC158"
+setings_modCategory1_setting1_desc: "\uCD94\uC801 \uD65C\uC131\uD654"
+setings_modCategory1_setting1_name: "\uCD94\uAD6C"
+setings_modCategory1_setting2_desc: "\uCAD3\uB294 \uBC30\uC6B0\uAC00 \uCAD3\uB294\
+  \ \uAC83\uC744 \uD3EC\uAE30\uD558\uAE30\uAE4C\uC9C0\uC758 \uC2DC\uAC04(\uCD08)"
+setings_modCategory1_setting2_name: "\uCD94\uAD6C\uC758 \uC2DC\uAC04 \uC81C\uD55C"
+setings_modCategory1_setting3_desc: "\uC0DD\uBB3C\uC774 \uBB38\uC744 \uD1B5\uACFC\uD560\
+  \ \uC218 \uC788\uC2B5\uB2C8\uAE4C?"
+setings_modCategory1_setting3_name: "\uC0DD\uBB3C \uCD94\uAD6C"
+setings_modCategory1_setting4_desc: "\uCD94\uACA9 \uD6C4 \uC6D0\uC704\uCE58\uB85C\
+  \ \uBCF5\uADC0\uD55C \uBC30\uC6B0\uB4E4?"
+setings_modCategory1_setting4_name: "\uBC30\uC6B0 \uBCF5\uADC0"
+setings_modCategory2_desc: "\uC774 \uBC30\uC6B0\uB4E4\uC740 \uADF8\uB4E4\uC758 \uBAA9\
+  \uD45C\uB97C \uCD94\uAD6C\uD558\uC9C0 \uC54A\uC744 \uAC83\uC785\uB2C8\uB2E4"
+setings_modCategory2_name: "\uBE14\uB799\uB9AC\uC2A4\uD2B8"
+setings_modCategory2_setting1_desc: "\uC774\uB3D9 \uD0A4\uB97C \uC0AC\uC6A9\uD558\uC5EC\
+  \ \uBAA9\uB85D \uD0D0\uC0C9\n\n\uC791\uC5C5 [toggle spell] \uC81C\uAC70\uD560 \uC120\
+  \uD0DD \uD56D\uBAA9\uC744 \uD45C\uC2DC/\uD45C\uC2DC \uD574\uC81C\uD569\uB2C8\uB2E4\
+  .\n\n\uD65C\uC131\uD654\uB41C \uACBD\uC6B0 'SHIFT' \uD0A4 + \uB2E4\uC74C \uD0A4\uB97C\
+  \ \uB204\uB985\uB2C8\uB2E4."
+setings_modCategory2_setting1_name: "\uBE14\uB799\uB9AC\uC2A4\uD2B8 \uBC30\uC6B0"
+setings_modCategory2_setting2_desc: "\uBAA9\uB85D\uC744 \uC5EC\uB294 \uB2E8\uCD95\uD0A4"
+setings_modCategory2_setting2_name: "\uBAA9\uB85D \uC5F4\uAE30 \uB2E8\uCD95\uD0A4"
+setings_modCategory2_setting3_desc: "\uB300\uC0C1\uC744 \uBE14\uB799\uB9AC\uC2A4\uD2B8\
+  \uC5D0 \uCD94\uAC00\uD558\uB294 \uB2E8\uCD95\uD0A4"
+setings_modCategory2_setting3_name: "\uBE14\uB799\uB9AC\uC2A4\uD2B8\uC5D0 \uCD94\uAC00\
+  \ \uD56B\uD0A4"
+setings_modCategory2_setting4_desc: "\uBE14\uB799\uB9AC\uC2A4\uD2B8\uC5D0\uC11C \uB300\
+  \uC0C1\uC744 \uC81C\uAC70\uD558\uB294 \uB2E8\uCD95\uD0A4"
+setings_modCategory2_setting4_name: "\uBE14\uB799\uB9AC\uC2A4\uD2B8\uC5D0\uC11C \uC81C\
+  \uAC70 \uD56B\uD0A4"
+setings_modCategory3_name: "\uB514\uBC84\uADF8"
+setings_modCategory3_setting1_desc: "\uCD94\uAD6C\uC5D0 \uB300\uD55C \uC790\uC138\uD55C\
+  \ \uB0B4\uC6A9 \uD45C\uC2DC"
+setings_modCategory3_setting1_name: "\uCD94\uC801\uC790 \uC138\uBD80 \uC815\uBCF4\
+  \ \uD45C\uC2DC"
+settings_modDesc: "\uBC84\uC804 0.16\n\uC561\uD130\uAC00 \uC140\uC744 \uD1B5\uD574\
+  \ \uC774\uB3D9\uD558\uC5EC \uBAA9\uD45C\uBB3C\uC744 \uCD94\uC801\uD560 \uC218 \uC788\
+  \uC2B5\uB2C8\uB2E4."
+settings_modName: "\uCD94\uAD6C"

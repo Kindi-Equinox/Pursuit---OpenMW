@@ -1,0 +1,39 @@
+blackListed_header_text: Takip Kara Listesi
+setings_modCategory1_desc: '---'
+setings_modCategory1_name: "Se\xE7enekler"
+setings_modCategory1_setting1_desc: "Pursuit'i Etkinle\u015Ftir"
+setings_modCategory1_setting1_name: Kovalama
+setings_modCategory1_setting2_desc: "Takip eden akt\xF6r takipten vazge\xE7meden \xF6\
+  nceki saniye cinsinden s\xFCre"
+setings_modCategory1_setting2_name: "Takip Zaman S\u0131n\u0131r\u0131"
+setings_modCategory1_setting3_desc: "Canl\u0131lar kap\u0131lardan takip edebilir\
+  \ mi?"
+setings_modCategory1_setting3_name: "Yarat\u0131k Takibi"
+setings_modCategory1_setting4_desc: "Oyuncular takipten sonra orijinal konumlar\u0131\
+  na d\xF6n\xFCyor mu?"
+setings_modCategory1_setting4_name: "Oyuncu D\xF6n\xFC\u015F\xFC"
+setings_modCategory2_desc: "Bu akt\xF6rler hedeflerinin pe\u015Fine d\xFC\u015Fmeyecek"
+setings_modCategory2_name: kara liste
+setings_modCategory2_setting1_desc: "Listede gezinmek i\xE7in hareket tu\u015Flar\u0131\
+  n\u0131 kullan\u0131n\n\nEylem [b\xFCy\xFCy\xFC de\u011Fi\u015Ftir] kald\u0131rma\
+  \ i\xE7in se\xE7imi i\u015Faretler/i\u015Faretini kald\u0131r\u0131r\n\nEtkinle\u015F\
+  tirilirse, 'SHIFT' tu\u015Funa + a\u015Fa\u011F\u0131daki tu\u015Flara bas\u0131\
+  n"
+setings_modCategory2_setting1_name: "Kara Liste Akt\xF6rleri"
+setings_modCategory2_setting2_desc: "Listeyi a\xE7mak i\xE7in k\u0131sayol tu\u015F\
+  u"
+setings_modCategory2_setting2_name: "Liste K\u0131sayolunu A\xE7"
+setings_modCategory2_setting3_desc: "Hedefi kara listeye eklemek i\xE7in k\u0131sayol\
+  \ tu\u015Fu"
+setings_modCategory2_setting3_name: "Kara Listeye Ekleme K\u0131sayolu"
+setings_modCategory2_setting4_desc: "Hedefi kara listeden \xE7\u0131karmak i\xE7in\
+  \ k\u0131sayol tu\u015Fu"
+setings_modCategory2_setting4_name: "Kara Listeden \xC7\u0131karma K\u0131sayolu"
+setings_modCategory3_name: "hata ay\u0131klama"
+setings_modCategory3_setting1_desc: "Bir Takip Hakk\u0131nda Daha Fazla Ayr\u0131\
+  nt\u0131 G\xF6ster"
+setings_modCategory3_setting1_name: "Takip\xE7i Ayr\u0131nt\u0131lar\u0131n\u0131\
+  \ G\xF6ster"
+settings_modDesc: "S\xFCr\xFCm 0.16\nAkt\xF6rlerin hedeflerini takip etmek i\xE7in\
+  \ h\xFCcreler aras\u0131nda dola\u015Fmas\u0131n\u0131 sa\u011Flay\u0131n"
+settings_modName: Kovalama

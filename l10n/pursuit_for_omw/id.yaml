@@ -1,0 +1,35 @@
+blackListed_header_text: Mengejar Daftar Hitam
+setings_modCategory1_desc: '---'
+setings_modCategory1_name: Pilihan
+setings_modCategory1_setting1_desc: Aktifkan Pengejaran
+setings_modCategory1_setting1_name: Pengejaran
+setings_modCategory1_setting2_desc: Waktu dalam hitungan detik sebelum aktor pengejar
+  berhenti mengejar
+setings_modCategory1_setting2_name: Batas Waktu Pengejaran
+setings_modCategory1_setting3_desc: Bisakah makhluk mengejar melalui pintu?
+setings_modCategory1_setting3_name: Pengejaran Makhluk
+setings_modCategory1_setting4_desc: Aktor kembali ke posisi semula setelah pengejaran?
+setings_modCategory1_setting4_name: Aktor Kembali
+setings_modCategory2_desc: Aktor-aktor ini tidak akan mengejar target mereka
+setings_modCategory2_name: Daftar hitam
+setings_modCategory2_setting1_desc: 'Gunakan tombol gerakan untuk menavigasi daftar
+
+
+  Tindakan [toggle spell] menandai/menghilangkan pilihan untuk dihapus
+
+
+  Jika diaktifkan, tekan tombol ''SHIFT'' + tombol berikut'
+setings_modCategory2_setting1_name: Aktor Daftar Hitam
+setings_modCategory2_setting2_desc: Hotkey untuk membuka daftar
+setings_modCategory2_setting2_name: Buka Hotkey Daftar
+setings_modCategory2_setting3_desc: Hotkey untuk menambahkan target ke daftar hitam
+setings_modCategory2_setting3_name: Hotkey Tambah-ke-Daftar Hitam
+setings_modCategory2_setting4_desc: Hotkey untuk menghapus target dari daftar hitam
+setings_modCategory2_setting4_name: Hotkey Hapus-dari-Daftar Hitam
+setings_modCategory3_name: Debug
+setings_modCategory3_setting1_desc: Tampilkan Lebih Banyak Detail Tentang A Pursuit
+setings_modCategory3_setting1_name: Tampilkan Detail Pengejar
+settings_modDesc: 'Versi 0.16
+
+  Aktifkan aktor untuk melakukan perjalanan melalui sel untuk mengejar target mereka'
+settings_modName: Pengejaran

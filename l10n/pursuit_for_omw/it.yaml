@@ -1,0 +1,38 @@
+blackListed_header_text: Lista nera degli inseguimenti
+setings_modCategory1_desc: '---'
+setings_modCategory1_name: Opzioni
+setings_modCategory1_setting1_desc: Abilita Inseguimento
+setings_modCategory1_setting1_name: Inseguimento
+setings_modCategory1_setting2_desc: Tempo in secondi prima che l'attore che insegue
+  smetta di inseguire
+setings_modCategory1_setting2_name: Limite di tempo dell'inseguimento
+setings_modCategory1_setting3_desc: Le creature possono inseguire attraverso le porte?
+setings_modCategory1_setting3_name: Inseguimento di creature
+setings_modCategory1_setting4_desc: Gli attori tornano alla posizione originale dopo
+  l'inseguimento?
+setings_modCategory1_setting4_name: Ritorno dell'attore
+setings_modCategory2_desc: Questi attori non perseguiranno il loro obiettivo
+setings_modCategory2_name: Lista nera
+setings_modCategory2_setting1_desc: 'Usa i tasti di movimento per navigare nell''elenco
+
+
+  L''azione [toggle spell] contrassegna/deseleziona la selezione per la rimozione
+
+
+  Se abilitato, premere il tasto ''MAIUSC'' + i seguenti tasti'
+setings_modCategory2_setting1_name: Attori della lista nera
+setings_modCategory2_setting2_desc: Tasto di scelta rapida per aprire l'elenco
+setings_modCategory2_setting2_name: Tasto di scelta rapida elenco aperto
+setings_modCategory2_setting3_desc: Tasto di scelta rapida per aggiungere l'obiettivo
+  alla lista nera
+setings_modCategory2_setting3_name: Tasto di scelta rapida Aggiungi alla lista nera
+setings_modCategory2_setting4_desc: Tasto di scelta rapida per rimuovere l'obiettivo
+  dalla lista nera
+setings_modCategory2_setting4_name: Tasto di scelta rapida Rimuovi dalla lista nera
+setings_modCategory3_name: Debug
+setings_modCategory3_setting1_desc: Mostra maggiori dettagli su un inseguimento
+setings_modCategory3_setting1_name: Mostra i dettagli dell'inseguitore
+settings_modDesc: 'Versione 0.16
+
+  Consenti agli attori di viaggiare attraverso le celle per perseguire il loro obiettivo'
+settings_modName: Inseguimento

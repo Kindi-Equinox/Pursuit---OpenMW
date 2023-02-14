@@ -1,0 +1,38 @@
+blackListed_header_text: Zwarte lijst nastreven
+setings_modCategory1_desc: '---'
+setings_modCategory1_name: Opties
+setings_modCategory1_setting1_desc: Achtervolging inschakelen
+setings_modCategory1_setting1_name: Nastreven
+setings_modCategory1_setting2_desc: Tijd in seconden voordat de achtervolgende acteur
+  het achtervolgen opgeeft
+setings_modCategory1_setting2_name: Tijdslimiet van achtervolging
+setings_modCategory1_setting3_desc: Kunnen wezens door deuren achtervolgen?
+setings_modCategory1_setting3_name: Creature achtervolging
+setings_modCategory1_setting4_desc: Acteurs na achtervolging terug in oorspronkelijke
+  positie?
+setings_modCategory1_setting4_name: Acteur terugkeer
+setings_modCategory2_desc: Deze actoren zullen hun doel niet nastreven
+setings_modCategory2_name: Zwarte lijst
+setings_modCategory2_setting1_desc: 'Gebruik bewegingstoetsen om door de lijst te
+  navigeren
+
+
+  Actie [toggle spell] markeert/demarkeert de selectie voor verwijdering
+
+
+  Indien ingeschakeld, drukt u op de ''SHIFT''-toets + de volgende toetsen'
+setings_modCategory2_setting1_name: Acteurs op de zwarte lijst
+setings_modCategory2_setting2_desc: Sneltoets om de lijst te openen
+setings_modCategory2_setting2_name: Open Lijst Sneltoets
+setings_modCategory2_setting3_desc: Sneltoets om doel aan zwarte lijst toe te voegen
+setings_modCategory2_setting3_name: Sneltoets voor toevoegen aan zwarte lijst
+setings_modCategory2_setting4_desc: Sneltoets om het doelwit van de zwarte lijst te
+  verwijderen
+setings_modCategory2_setting4_name: Sneltoets voor verwijderen van zwarte lijst
+setings_modCategory3_name: Debuggen
+setings_modCategory3_setting1_desc: Toon meer details over een achtervolging
+setings_modCategory3_setting1_name: Details achtervolger tonen
+settings_modDesc: 'Versie 0.16
+
+  Stel acteurs in staat om door cellen te reizen om hun doelwit te achtervolgen'
+settings_modName: Nastreven

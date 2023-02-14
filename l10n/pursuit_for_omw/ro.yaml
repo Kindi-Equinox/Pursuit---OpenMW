@@ -1,0 +1,38 @@
+blackListed_header_text: "Lista neagr\u0103 de urm\u0103rire"
+setings_modCategory1_desc: '---'
+setings_modCategory1_name: "Op\u021Biuni"
+setings_modCategory1_setting1_desc: "Activeaz\u0103 Pursuit"
+setings_modCategory1_setting1_name: "Urm\u0103rire"
+setings_modCategory1_setting2_desc: "Timp \xEEn secunde \xEEnainte ca actorul care\
+  \ urm\u0103re\u0219te s\u0103 renun\u021Be la urm\u0103rire"
+setings_modCategory1_setting2_name: "Limita de timp de urm\u0103rire"
+setings_modCategory1_setting3_desc: "Pot creaturile s\u0103 urm\u0103reasc\u0103 prin\
+  \ u\u0219i?"
+setings_modCategory1_setting3_name: "Urm\u0103rirea creaturii"
+setings_modCategory1_setting4_desc: "Actorii revin la pozi\u021Bia ini\u021Bial\u0103\
+  \ dup\u0103 urm\u0103rire?"
+setings_modCategory1_setting4_name: "\xCEntoarcerea actorului"
+setings_modCategory2_desc: "Ace\u0219ti actori nu \xEE\u0219i vor urm\u0103ri \u021B\
+  inta"
+setings_modCategory2_name: "Lista neagr\u0103"
+setings_modCategory2_setting1_desc: "Utiliza\u021Bi tastele de mi\u0219care pentru\
+  \ a naviga prin list\u0103\n\nAc\u021Biunea [comuta\u021Bi vraja] marcheaz\u0103\
+  /demarc\u0103 selec\u021Bia pentru eliminare\n\nDac\u0103 este activat, ap\u0103\
+  sa\u021Bi tasta \u201ESHIFT\u201D + urm\u0103toarele taste"
+setings_modCategory2_setting1_name: "Actori pe lista neagr\u0103"
+setings_modCategory2_setting2_desc: "Tasta rapid\u0103 pentru a deschide lista"
+setings_modCategory2_setting2_name: "Deschide\u021Bi tasta rapid\u0103 List\u0103"
+setings_modCategory2_setting3_desc: "Tast\u0103 rapid\u0103 pentru a ad\u0103uga \u021B\
+  inta pe lista neagr\u0103"
+setings_modCategory2_setting3_name: "Tast\u0103 rapid\u0103 pentru ad\u0103ugare la\
+  \ lista neagr\u0103"
+setings_modCategory2_setting4_desc: "Tasta rapid\u0103 pentru a elimina \u021Binta\
+  \ din lista neagr\u0103"
+setings_modCategory2_setting4_name: "Tasta rapid\u0103 Eliminare-din-lista neagr\u0103"
+setings_modCategory3_name: "Depana\u021Bi"
+setings_modCategory3_setting1_desc: "Afi\u0219a\u021Bi mai multe detalii despre o\
+  \ urm\u0103rire"
+setings_modCategory3_setting1_name: "Afi\u0219a\u021Bi detaliile urm\u0103ritorului"
+settings_modDesc: "Versiunea 0.16\nPermite\u021Bi actorilor s\u0103 c\u0103l\u0103\
+  toreasc\u0103 prin celule pentru a-\u0219i urm\u0103ri \u021Binta"
+settings_modName: "Urm\u0103rire"

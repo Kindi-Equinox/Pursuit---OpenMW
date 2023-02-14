@@ -1,0 +1,32 @@
+settings_modName: Pursuit
+settings_modDesc: "Version 0.16\nEnable actors to travel through cells to pursue their target"
+setings_modCategory1_name: "Options"
+setings_modCategory1_desc: "---"
+setings_modCategory1_setting1_name: "Pursuit"
+setings_modCategory1_setting1_desc: "Enable Pursuit"
+setings_modCategory1_setting2_name: "Time Limit Of Pursuit"
+setings_modCategory1_setting2_desc: "Time in seconds before the pursuing actor gives up pursuing"
+setings_modCategory1_setting3_name: "Creature Pursuit"
+setings_modCategory1_setting3_desc: "Can creatures pursue through doors?"
+setings_modCategory1_setting4_name: "Actor Return"
+setings_modCategory1_setting4_desc: "Actors return to original position after pursuit?"
+
+
+setings_modCategory2_name: "Blacklist"
+setings_modCategory2_desc: "These actors will not pursue their target"
+setings_modCategory2_setting1_name: "Blacklist Actors"
+setings_modCategory2_setting1_desc: "Use movement keys to navigate the list\n\nAction [toggle spell] marks/unmarks the selection for removal\n\nIf enabled, press 'SHIFT' key + the following keys"
+setings_modCategory2_setting2_name: "Open List Hotkey"
+setings_modCategory2_setting2_desc: "Hotkey to open the list"
+setings_modCategory2_setting3_name: "Add-to-Blacklist Hotkey"
+setings_modCategory2_setting3_desc: "Hotkey to add target to blacklist"
+setings_modCategory2_setting4_name: "Remove-from-Blacklist Hotkey"
+setings_modCategory2_setting4_desc: "Hotkey to remove target from blacklist"
+
+
+setings_modCategory3_name: "Debug"
+setings_modCategory3_setting1_name: "Show Pursuer Details"
+setings_modCategory3_setting1_desc: "Show More Details About A Pursuit"
+
+
+blackListed_header_text: "Pursuit Blacklist"

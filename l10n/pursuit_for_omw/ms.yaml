@@ -1,0 +1,36 @@
+blackListed_header_text: Mengejar Senarai Hitam
+setings_modCategory1_desc: '---'
+setings_modCategory1_name: Pilihan
+setings_modCategory1_setting1_desc: Dayakan Mengejar
+setings_modCategory1_setting1_name: Mengejar
+setings_modCategory1_setting2_desc: Masa dalam beberapa saat sebelum pelakon yang
+  mengejar berhenti mengejar
+setings_modCategory1_setting2_name: Had Masa Mengejar
+setings_modCategory1_setting3_desc: Bolehkah makhluk mengejar melalui pintu?
+setings_modCategory1_setting3_name: Pengejaran Makhluk
+setings_modCategory1_setting4_desc: Pelakon kembali ke kedudukan asal selepas mengejar?
+setings_modCategory1_setting4_name: Pelakon Kembali
+setings_modCategory2_desc: Pelakon ini tidak akan mengejar sasaran mereka
+setings_modCategory2_name: Blacklist
+setings_modCategory2_setting1_desc: 'Gunakan kekunci pergerakan untuk menavigasi senarai
+
+
+  Tindakan [togol ejaan] menandakan/mennyahtanda pilihan untuk dialih keluar
+
+
+  Jika didayakan, tekan kekunci ''SHIFT'' + kekunci berikut'
+setings_modCategory2_setting1_name: Pelakon Senarai Hitam
+setings_modCategory2_setting2_desc: Hotkey untuk membuka senarai
+setings_modCategory2_setting2_name: Buka Hotkey Senarai
+setings_modCategory2_setting3_desc: Hotkey untuk menambah sasaran ke senarai hitam
+setings_modCategory2_setting3_name: Tambah-ke-Senarai Hitam Hotkey
+setings_modCategory2_setting4_desc: Hotkey untuk mengalih keluar sasaran daripada
+  senarai hitam
+setings_modCategory2_setting4_name: Alih keluar-dari-Blacklist Hotkey
+setings_modCategory3_name: Nyahpepijat
+setings_modCategory3_setting1_desc: Tunjukkan Lagi Butiran Tentang Pengejaran
+setings_modCategory3_setting1_name: Tunjukkan Butiran Pengejar
+settings_modDesc: 'Versi 0.16
+
+  Membolehkan pelakon mengembara melalui sel untuk mengejar sasaran mereka'
+settings_modName: Mengejar

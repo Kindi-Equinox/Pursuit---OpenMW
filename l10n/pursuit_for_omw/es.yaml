@@ -1,0 +1,38 @@
+blackListed_header_text: "Lista negra de persecuci\xF3n"
+setings_modCategory1_desc: '---'
+setings_modCategory1_name: Opciones
+setings_modCategory1_setting1_desc: "Habilitar persecuci\xF3n"
+setings_modCategory1_setting1_name: Buscar
+setings_modCategory1_setting2_desc: Tiempo en segundos antes de que el actor perseguidor
+  deje de perseguir
+setings_modCategory1_setting2_name: "L\xEDmite de tiempo de persecuci\xF3n"
+setings_modCategory1_setting3_desc: "\xBFPueden las criaturas perseguir a trav\xE9\
+  s de las puertas?"
+setings_modCategory1_setting3_name: "Persecuci\xF3n de criaturas"
+setings_modCategory1_setting4_desc: "\xBFLos actores regresan a la posici\xF3n original\
+  \ despu\xE9s de la persecuci\xF3n?"
+setings_modCategory1_setting4_name: Regreso del actor
+setings_modCategory2_desc: "Estos actores no perseguir\xE1n su objetivo."
+setings_modCategory2_name: Lista negra
+setings_modCategory2_setting1_desc: "Utilice las teclas de movimiento para navegar\
+  \ por la lista\n\nAcci\xF3n [alternar hechizo] marca/desmarca la selecci\xF3n para\
+  \ su eliminaci\xF3n\n\nSi est\xE1 habilitado, presione la tecla 'SHIFT' + las siguientes\
+  \ teclas"
+setings_modCategory2_setting1_name: Actores de la lista negra
+setings_modCategory2_setting2_desc: Hotkey para abrir la lista
+setings_modCategory2_setting2_name: Tecla de acceso directo de lista abierta
+setings_modCategory2_setting3_desc: "Tecla de acceso r\xE1pido para agregar objetivo\
+  \ a la lista negra"
+setings_modCategory2_setting3_name: "Tecla de acceso r\xE1pido Agregar a la lista\
+  \ negra"
+setings_modCategory2_setting4_desc: "Tecla de acceso r\xE1pido para eliminar el objetivo\
+  \ de la lista negra"
+setings_modCategory2_setting4_name: "Tecla de acceso r\xE1pido para quitar de la lista\
+  \ negra"
+setings_modCategory3_name: Depurar
+setings_modCategory3_setting1_desc: "Mostrar m\xE1s detalles sobre una persecuci\xF3\
+  n"
+setings_modCategory3_setting1_name: Mostrar detalles del perseguidor
+settings_modDesc: "Versi\xF3n 0.16\nPermita que los actores viajen a trav\xE9s de\
+  \ las celdas para perseguir su objetivo"
+settings_modName: Buscar

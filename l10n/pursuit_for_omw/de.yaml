@@ -1,0 +1,33 @@
+blackListed_header_text: Schwarze Liste der Verfolgung
+setings_modCategory1_desc: '---'
+setings_modCategory1_name: Optionen
+setings_modCategory1_setting1_desc: Verfolgung aktivieren
+setings_modCategory1_setting1_name: Verfolgen
+setings_modCategory1_setting2_desc: Zeit in Sekunden, bevor der verfolgende Akteur
+  die Verfolgung aufgibt
+setings_modCategory1_setting2_name: Frist der Verfolgung
+setings_modCategory1_setting3_desc: "K\xF6nnen Kreaturen durch T\xFCren verfolgen?"
+setings_modCategory1_setting3_name: Kreaturenverfolgung
+setings_modCategory1_setting4_desc: "Schauspieler kehren nach der Verfolgung in die\
+  \ urspr\xFCngliche Position zur\xFCck?"
+setings_modCategory1_setting4_name: "Schauspieler R\xFCckkehr"
+setings_modCategory2_desc: Diese Akteure werden ihr Ziel nicht verfolgen
+setings_modCategory2_name: Schwarze Liste
+setings_modCategory2_setting1_desc: "Verwenden Sie die Bewegungstasten, um durch die\
+  \ Liste zu navigieren\n\nAktion [Zauber umschalten] markiert/deaktiviert die Auswahl\
+  \ zum Entfernen\n\nWenn aktiviert, dr\xFCcken Sie die SHIFT-Taste + die folgenden\
+  \ Tasten"
+setings_modCategory2_setting1_name: Schauspieler auf der schwarzen Liste
+setings_modCategory2_setting2_desc: "Hotkey zum \xD6ffnen der Liste"
+setings_modCategory2_setting2_name: "Listen-Hotkey \xF6ffnen"
+setings_modCategory2_setting3_desc: "Hotkey zum Hinzuf\xFCgen des Ziels zur Blacklist"
+setings_modCategory2_setting3_name: "Hotkey zum Hinzuf\xFCgen zur schwarzen Liste"
+setings_modCategory2_setting4_desc: Hotkey zum Entfernen des Ziels von der schwarzen
+  Liste
+setings_modCategory2_setting4_name: Hotkey zum Entfernen von der schwarzen Liste
+setings_modCategory3_name: Debuggen
+setings_modCategory3_setting1_desc: Weitere Details zu einer Verfolgung anzeigen
+setings_modCategory3_setting1_name: Verfolgerdetails anzeigen
+settings_modDesc: "Version 0.16\nErm\xF6glichen Sie Akteuren, durch Zellen zu reisen,\
+  \ um ihr Ziel zu verfolgen"
+settings_modName: Verfolgen

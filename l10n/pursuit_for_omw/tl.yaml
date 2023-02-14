@@ -1,0 +1,38 @@
+blackListed_header_text: Pursuit Blacklist
+setings_modCategory1_desc: '---'
+setings_modCategory1_name: Mga pagpipilian
+setings_modCategory1_setting1_desc: Paganahin ang Pursuit
+setings_modCategory1_setting1_name: Paghabol
+setings_modCategory1_setting2_desc: Oras sa mga segundo bago ang humahabol na aktor
+  ay sumuko sa paghabol
+setings_modCategory1_setting2_name: Limitasyon ng Oras ng Paghabol
+setings_modCategory1_setting3_desc: Maaari bang humabol ang mga nilalang sa mga pintuan?
+setings_modCategory1_setting3_name: Pagtugis ng Nilalang
+setings_modCategory1_setting4_desc: Ang mga aktor ay bumalik sa orihinal na posisyon
+  pagkatapos ng pagtugis?
+setings_modCategory1_setting4_name: Pagbabalik ng Aktor
+setings_modCategory2_desc: Hindi hahabulin ng mga aktor na ito ang kanilang target
+setings_modCategory2_name: Blacklist
+setings_modCategory2_setting1_desc: 'Gumamit ng mga movement key para mag-navigate
+  sa listahan
+
+
+  Ang pagkilos [toggle spell] ay nagmamarka/nag-aalis ng marka sa seleksyon para alisin
+
+
+  Kung pinagana, pindutin ang ''SHIFT'' key + ang mga sumusunod na key'
+setings_modCategory2_setting1_name: Blacklist Actor
+setings_modCategory2_setting2_desc: Hotkey para buksan ang listahan
+setings_modCategory2_setting2_name: Buksan ang Listahan ng Hotkey
+setings_modCategory2_setting3_desc: Hotkey upang magdagdag ng target sa blacklist
+setings_modCategory2_setting3_name: Add-to-Blacklist Hotkey
+setings_modCategory2_setting4_desc: Hotkey para alisin ang target sa blacklist
+setings_modCategory2_setting4_name: Alisin-sa-Blacklist Hotkey
+setings_modCategory3_name: I-debug
+setings_modCategory3_setting1_desc: Magpakita ng Higit pang Mga Detalye Tungkol sa
+  Isang Pagtugis
+setings_modCategory3_setting1_name: Ipakita ang mga Detalye ng Pursuer
+settings_modDesc: 'Bersyon 0.16
+
+  Paganahin ang mga aktor na maglakbay sa mga cell upang ituloy ang kanilang target'
+settings_modName: Paghabol

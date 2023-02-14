@@ -1,0 +1,37 @@
+blackListed_header_text: "Czarna lista po\u015Bcig\xF3w"
+setings_modCategory1_desc: '---'
+setings_modCategory1_name: Opcje
+setings_modCategory1_setting1_desc: "W\u0142\u0105cz po\u015Bcig"
+setings_modCategory1_setting1_name: "Po\u015Bcig"
+setings_modCategory1_setting2_desc: "Czas w sekundach, zanim \u015Bcigaj\u0105cy aktor\
+  \ zrezygnuje z po\u015Bcigu"
+setings_modCategory1_setting2_name: "Limit czasu po\u015Bcigu"
+setings_modCategory1_setting3_desc: "Czy stworzenia mog\u0105 przechodzi\u0107 przez\
+  \ drzwi?"
+setings_modCategory1_setting3_name: "Pogo\u0144 za stworzeniem"
+setings_modCategory1_setting4_desc: "Aktorzy wracaj\u0105 do pierwotnej pozycji po\
+  \ po\u015Bcigu?"
+setings_modCategory1_setting4_name: "Powr\xF3t aktora"
+setings_modCategory2_desc: "Ci aktorzy nie b\u0119d\u0105 d\u0105\u017Cy\u0107 do\
+  \ celu"
+setings_modCategory2_name: Czarna lista
+setings_modCategory2_setting1_desc: "U\u017Cyj klawiszy ruchu, aby porusza\u0107 si\u0119\
+  \ po li\u015Bcie\n\nAkcja [prze\u0142\u0105cz pisowni\u0119] zaznacza/odznacza zaznaczenie\
+  \ do usuni\u0119cia\n\nJe\u015Bli jest w\u0142\u0105czona, naci\u015Bnij klawisz\
+  \ \u201ESHIFT\u201D + nast\u0119puj\u0105ce klawisze"
+setings_modCategory2_setting1_name: Aktorzy z czarnej listy
+setings_modCategory2_setting2_desc: "Klawisz skr\xF3tu, aby otworzy\u0107 list\u0119"
+setings_modCategory2_setting2_name: "Klawisz skr\xF3tu Otw\xF3rz list\u0119"
+setings_modCategory2_setting3_desc: "Klawisz skr\xF3tu, aby doda\u0107 cel do czarnej\
+  \ listy"
+setings_modCategory2_setting3_name: "Skr\xF3t klawiszowy Dodaj do czarnej listy"
+setings_modCategory2_setting4_desc: "Klawisz skr\xF3tu do usuwania celu z czarnej\
+  \ listy"
+setings_modCategory2_setting4_name: "Skr\xF3t klawiszowy usuwania z czarnej listy"
+setings_modCategory3_name: "Odpluskwi\u0107"
+setings_modCategory3_setting1_desc: "Poka\u017C wi\u0119cej szczeg\xF3\u0142\xF3w\
+  \ o po\u015Bcigu"
+setings_modCategory3_setting1_name: "Poka\u017C szczeg\xF3\u0142y prze\u015Bladowcy"
+settings_modDesc: "Wersja 0.16\nUmo\u017Cliwiaj aktorom podr\xF3\u017Cowanie przez\
+  \ kom\xF3rki w celu \u015Bcigania celu"
+settings_modName: "Po\u015Bcig"

@@ -1,0 +1,33 @@
+blackListed_header_text: "Lista negra de persegui\xE7\xE3o"
+setings_modCategory1_desc: '---'
+setings_modCategory1_name: "Op\xE7\xF5es"
+setings_modCategory1_setting1_desc: "Habilitar Persegui\xE7\xE3o"
+setings_modCategory1_setting1_name: Perseguir
+setings_modCategory1_setting2_desc: Tempo em segundos antes que o ator perseguidor
+  desista de perseguir
+setings_modCategory1_setting2_name: "Limite de Tempo de Persegui\xE7\xE3o"
+setings_modCategory1_setting3_desc: "As criaturas podem perseguir atrav\xE9s de portas?"
+setings_modCategory1_setting3_name: "Persegui\xE7\xE3o \xE0 Criatura"
+setings_modCategory1_setting4_desc: "Atores retornam \xE0 posi\xE7\xE3o original ap\xF3\
+  s persegui\xE7\xE3o?"
+setings_modCategory1_setting4_name: Retorno do ator
+setings_modCategory2_desc: "Esses atores n\xE3o perseguir\xE3o seu alvo"
+setings_modCategory2_name: Lista negra
+setings_modCategory2_setting1_desc: "Use as teclas de movimento para navegar na lista\n\
+  \nA\xE7\xE3o [alternar feiti\xE7o] marca/desmarca a sele\xE7\xE3o para remo\xE7\xE3\
+  o\n\nSe ativado, pressione a tecla 'SHIFT' + as seguintes teclas"
+setings_modCategory2_setting1_name: Lista negra de atores
+setings_modCategory2_setting2_desc: Tecla de atalho para abrir a lista
+setings_modCategory2_setting2_name: Abrir lista de teclas de atalho
+setings_modCategory2_setting3_desc: "Tecla de atalho para adicionar alvo \xE0 lista\
+  \ negra"
+setings_modCategory2_setting3_name: "Tecla de atalho para adicionar \xE0 lista negra"
+setings_modCategory2_setting4_desc: Tecla de atalho para remover o alvo da lista negra
+setings_modCategory2_setting4_name: Tecla de atalho para remover da lista negra
+setings_modCategory3_name: Depurar
+setings_modCategory3_setting1_desc: "Mostrar mais detalhes sobre uma persegui\xE7\xE3\
+  o"
+setings_modCategory3_setting1_name: Mostrar detalhes do perseguidor
+settings_modDesc: "Vers\xE3o 0.16\nPermita que os atores viajem pelas c\xE9lulas para\
+  \ perseguir seu alvo"
+settings_modName: Perseguir

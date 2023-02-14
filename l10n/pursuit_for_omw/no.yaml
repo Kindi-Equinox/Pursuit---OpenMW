@@ -1,0 +1,31 @@
+blackListed_header_text: Pursuit Blacklist
+setings_modCategory1_desc: '---'
+setings_modCategory1_name: Alternativer
+setings_modCategory1_setting1_desc: Aktiver Pursuit
+setings_modCategory1_setting1_name: "Forf\xF8lgelse"
+setings_modCategory1_setting2_desc: "Tid i sekunder f\xF8r den forf\xF8lgende skuespilleren\
+  \ gir opp \xE5 forf\xF8lge"
+setings_modCategory1_setting2_name: Tidsbegrensning for jakten
+setings_modCategory1_setting3_desc: "Kan skapninger forf\xF8lge gjennom d\xF8rer?"
+setings_modCategory1_setting3_name: Creature Pursuit
+setings_modCategory1_setting4_desc: "Skuespillere g\xE5r tilbake til opprinnelig posisjon\
+  \ etter forf\xF8lgelse?"
+setings_modCategory1_setting4_name: Skuespiller Return
+setings_modCategory2_desc: "Disse akt\xF8rene vil ikke forf\xF8lge m\xE5let sitt"
+setings_modCategory2_name: Svarteliste
+setings_modCategory2_setting1_desc: "Bruk bevegelsestaster for \xE5 navigere i listen\n\
+  \nHandling [bytte stavem\xE5te] markerer/fjerner markeringen for fjerning\n\nHvis\
+  \ aktivert, trykk 'SHIFT'-tasten + f\xF8lgende taster"
+setings_modCategory2_setting1_name: Svarteliste skuespillere
+setings_modCategory2_setting2_desc: "Hurtigtast for \xE5 \xE5pne listen"
+setings_modCategory2_setting2_name: "\xC5pne liste hurtigtast"
+setings_modCategory2_setting3_desc: "Hurtigtast for \xE5 legge til m\xE5l p\xE5 svartelisten"
+setings_modCategory2_setting3_name: Legg til-svarteliste hurtigtast
+setings_modCategory2_setting4_desc: "Hurtigtast for \xE5 fjerne m\xE5let fra svartelisten"
+setings_modCategory2_setting4_name: Fjern-fra-svarteliste hurtigtast
+setings_modCategory3_name: "Feils\xF8k"
+setings_modCategory3_setting1_desc: "Vis flere detaljer om en forf\xF8lgelse"
+setings_modCategory3_setting1_name: "Vis forf\xF8lgerdetaljer"
+settings_modDesc: "Versjon 0.16\nGj\xF8r det mulig for skuespillere \xE5 reise gjennom\
+  \ celler for \xE5 forf\xF8lge m\xE5let sitt"
+settings_modName: "Forf\xF8lgelse"
